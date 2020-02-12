@@ -1,0 +1,10 @@
+C:\Users\batourin\OneDrive - University of Toronto\Documents\Crestron\Daniels\CrestronSSProExtensionsLibrary\CrestronSSProExtensionsLibrary\bin\Debug\CrestronSSProExtensionsLibrary.dll
+C:\Users\batourin\OneDrive - University of Toronto\Documents\Crestron\Daniels\CrestronSSProExtensionsLibrary\CrestronSSProExtensionsLibrary\bin\Debug\CrestronSSProExtensionsLibrary.pdb
+C:\Users\batourin\OneDrive - University of Toronto\Documents\Crestron\Daniels\CrestronSSProExtensionsLibrary\CrestronSSProExtensionsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\batourin\OneDrive - University of Toronto\Documents\Crestron\Daniels\CrestronSSProExtensionsLibrary\CrestronSSProExtensionsLibrary\obj\Debug\CrestronSSProExtensionsLibrary.dll
+C:\Users\batourin\OneDrive - University of Toronto\Documents\Crestron\Daniels\CrestronSSProExtensionsLibrary\CrestronSSProExtensionsLibrary\obj\Debug\CrestronSSProExtensionsLibrary.pdb
+C:\Users\batourin\OneDrive - University of Toronto\Documents\Crestron\Daniels\CrestronSSProExtensionsLibrary\bin\Debug\CrestronSSProExtensionsLibrary.dll
+C:\Users\batourin\OneDrive - University of Toronto\Documents\Crestron\Daniels\CrestronSSProExtensionsLibrary\bin\Debug\CrestronSSProExtensionsLibrary.pdb
+C:\Users\batourin\OneDrive - University of Toronto\Documents\Crestron\Daniels\CrestronSSProExtensionsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\batourin\OneDrive - University of Toronto\Documents\Crestron\Daniels\CrestronSSProExtensionsLibrary\obj\Debug\CrestronSSProExtensionsLibrary.dll
+C:\Users\batourin\OneDrive - University of Toronto\Documents\Crestron\Daniels\CrestronSSProExtensionsLibrary\obj\Debug\CrestronSSProExtensionsLibrary.pdb
