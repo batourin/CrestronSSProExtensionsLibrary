@@ -69,6 +69,7 @@
   <ItemGroup>
     <Compile Include="ActionsManager.cs" />
     <Compile Include="EventArgs.cs" />
+    <Compile Include="KeyValuePairExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="Properties\ControlSystem.cfg" />
   </ItemGroup>
