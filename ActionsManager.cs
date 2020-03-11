@@ -91,6 +91,20 @@ namespace Daniels.Common
 
             return actionId;
         }
+        
+        public static bool RemoveCustomAction(uint id)
+        {
+            if (!_actionFunctions.ContainsKey(id))
+                throw new ArgumentOutOfRangeException("id");
+            var kv = _actionInfos.FirstOrDefault(x => x.Value.Id == id);
+            if (kv.IsNull())
+                throw new ArgumentOutOfRangeException("id");
+            if(kv.Value.ReadOnly)
+                return false;
+            
+            _actionInfos.Remove(id);
+        
+        }
 
         public static void InvokeAction(uint id)
         {
