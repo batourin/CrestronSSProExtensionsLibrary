@@ -102,8 +102,7 @@ namespace Daniels.Common
             if(kv.Value.ReadOnly)
                 return false;
             
-            _actionInfos.Remove(id);
-        
+            return _actionInfos.Remove(id);
         }
 
         public static void InvokeAction(uint id)
